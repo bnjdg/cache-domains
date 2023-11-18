@@ -127,6 +127,11 @@
 			"description": "CDN for steam platform",
 			"domain_files": ["steam.txt"]
 		},
+        {
+            "name": "ubuntu",
+            "description": "CDN for Ubuntu Updates",
+            "domain_files": ["ubuntu_updates.txt"]
+        },
 		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
