@@ -1,5 +1,15 @@
 {
 	"cache_domains": [
+ 		{
+            "name": "adobe",
+            "description": "CDN for Adobe",
+            "domain_files": ["adobe.txt"]
+        },
+		{
+			"name": "apple",
+			"description": "CDN for apple",
+			"domain_files": ["apple.txt"]
+		},
 		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
@@ -34,6 +44,16 @@
 			"name": "frontier",
 			"description": "CDN for frontier games",
 			"domain_files": ["frontier.txt"]
+		},
+		{
+            "name": "google",
+            "description" : "CDN for Google Chrome and ChromeOS",
+            "domain_files": ["google.txt"]
+        },
+		{
+			"name": "hirez",
+			"description": "CDN for hirez",
+			"domain_files": ["hirez.txt"]
 		},
 		{
 			"name": "nexusmods",
