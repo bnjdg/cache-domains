@@ -338,6 +338,7 @@ mirrors.acm.wpi.edu
 mirrors.advancedhosters.com
 mirrors.aggregate.org
 mirrors.aliyun.com
+mirrors.atlas.net.co
 mirrors.atviras.lt
 mirrors.bfsu.edu.cn
 mirrors.bjg.at
@@ -357,6 +358,7 @@ mirrors.hit.edu.cn
 mirrors.hosterion.ro
 mirrors.hostico.ro
 mirrors.ims.nksc.lt
+mirrors.iu13.net
 mirrors.janbruckner.de
 mirrors.jlu.edu.cn
 mirrors.jxust.edu.cn
